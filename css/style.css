@@ -1,0 +1,258 @@
+header{
+    background:linear-gradient(rgba(6,6,133,0.464), rgba(13,13,170,0.647)),url(https://cdn.britannica.com/78/155378-050-838B4322/Himalayas-Nepal.jpg);
+    height:50vh;
+}
+.ss{
+    background:url("https://kathmandu.gov.np/wp-content/themes/kmc-theme/images/ic_search.svg")
+    no-repeat #fff;
+    background-position:8px 8px;
+}
+.thumb{
+    width:90px;
+}
+.news{
+    background: #263A57;
+
+}
+.box{
+    box-sizing: border-box;
+    background: #02217d;
+    color:white;
+   
+    
+    
+
+}
+.bed{
+    box-sizing: border-box;
+    background:orange;
+    border-radius: 10px;
+    width:200px;
+    height:200px;
+    
+    text-align:center;
+    color:white;
+    font-weight: bold;
+    font-size:5px;
+   
+
+    
+    
+    
+   
+  
+}
+
+
+
+.bottle h5{
+    padding-left:70px;
+
+
+}
+
+
+    
+   
+    
+   
+
+.pencil{
+    box-sizing: border-box;
+    background:#e28118;
+    width:250px;
+    height:250px;
+    
+   
+    
+}
+.lab{
+    box-sizing: border-box;
+    background:lightgrey;
+   
+    
+}
+.marker{
+    
+        box-sizing: border-box;
+        background:white;
+        
+}
+.book{
+    background:white;
+
+}
+
+.roll img{
+    height: 284px;
+    width: 100%;
+}
+.mobile{
+    background:white;
+}
+ 
+
+.bag1 {
+    box-sizing: border-box;
+    background:#0c4be3;
+    width:400px;
+    height:180px;
+
+    text-align:center;
+    border-radius: 10px;
+    color:white;
+    font-weight: bold;
+    
+}
+.bag2{
+    box-sizing: border-box;
+    background:#5b912a;
+    width:400px;
+    height:180px;
+    text-align:center;
+    border-radius: 10px;
+    color:white;
+    font-weight: bold;
+    
+}
+.bag3{
+    box-sizing: border-box;
+    background:#ba2020;
+    width:400px;
+    height:180px;
+    text-align:center;
+    border-radius: 10px;
+    color:white;
+    font-weight: bold;
+    
+}
+
+.bag4{
+    box-sizing: border-box;
+    background:#912a2a;
+    width:400px;
+    height:180px;
+    text-align:center;
+    border-radius: 10px;
+    color:white;
+    font-weight: bold;
+    
+
+}
+.bag5{
+    box-sizing: border-box;
+    background:#aa2ac1;
+    width:400px;
+    height:180px;
+    text-align:center;
+    border-radius: 10px;
+    color:white;
+    font-weight: bold;
+    
+}
+.bag6{
+    box-sizing: border-box;
+    background:#bd7b0e;
+    width:400px;
+    height:180px;
+    text-align:center;
+    border-radius: 10px;
+    color:white;
+    font-weight: bold;
+    
+
+}
+.bag7{
+    box-sizing: border-box;
+    background:#2eb7a5;
+    width:400px;
+    height:180px;
+    text-align:center;
+    border-radius: 10px;
+    color:white;
+    font-weight: bold;
+    
+}
+.bag8{
+    box-sizing: border-box;
+    background:#2e0b30;
+    width:400px;
+    height:180px;
+    text-align:center;
+    border-radius: 10px;
+    color:white;
+    font-weight: bold;
+    
+}
+.bag9{
+    box-sizing: border-box;
+    background:#6b70d7;
+    width:400px;
+    height:180px;
+    text-align:center;
+    border-radius: 10px;
+    color:white;
+    font-weight: bold;
+    
+
+    
+}
+.pen {
+    width:110px;
+    height:110px;
+    border-radius: none;
+    
+  
+
+}
+.paper {
+    font-size: 15px;
+    font-style: bold;
+
+}
+.chart{
+    font-size:13px;
+    
+}
+.light{
+    font-size:14px;
+}
+
+.hero{
+    width: 800px;
+    height:800px;
+    background: white;
+    border-radius: 10px;
+   
+    
+    
+    
+}
+.laptop{
+    font-size:20px;
+    padding:20px;
+}
+
+.stick {
+    border:1px solid gray;
+
+}
+.stick h6{
+    padding-left:30px;
+    font-size:10px;
+    color:gray;
+}
+.marker h5{
+    color:#263A57;
+}
+.show{
+    box-sizing: border-box;
+    background:lightgrey;
+    padding-top:40px;
+}
+.laptop1{
+    background: white;
+}
+.tv img{
+    object-fit: cover;
+}
